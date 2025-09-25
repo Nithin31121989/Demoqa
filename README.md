@@ -5,7 +5,7 @@ It demonstrates handling of text boxes, checkboxes, radio buttons, web tables, b
 
 ---
 
-## 🚀 Features Covered
+Features Covered
 - **Browser Setup**
   - Launches Firefox using `geckodriver`.
   - Maximizes the browser window.
