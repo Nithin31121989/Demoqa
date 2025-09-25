@@ -3,7 +3,7 @@ Selenium Automation with DemoQA
 This project is a **Java Selenium WebDriver automation script** that interacts with various elements on [DemoQA](https://demoqa.com/).  
 It demonstrates handling of text boxes, checkboxes, radio buttons, web tables, buttons, links, broken links, file upload/download, and more.
 
----
+
 
 Features Covered
 - **Browser Setup**
@@ -33,7 +33,7 @@ Features Covered
   - Downloads a sample file.
   - Uploads a file from local system.
 
----
+
 
  Technologies Used
 - **Java** (JDK 8+)
