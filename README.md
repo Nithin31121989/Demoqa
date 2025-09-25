@@ -35,7 +35,7 @@ Features Covered
 
 ---
 
-## 🛠️ Technologies Used
+ Technologies Used
 - **Java** (JDK 8+)
 - **Selenium WebDriver**
 - **GeckoDriver** (for Firefox)
@@ -43,7 +43,7 @@ Features Covered
 
 ---
 
-## ⚙️ Setup & Usage
+ Setup & Usage
 1. Install [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html).
 2. Install [Eclipse IDE](https://www.eclipse.org/downloads/).
 3. Install [Maven](https://maven.apache.org/).
